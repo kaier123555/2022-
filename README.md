@@ -4,5 +4,5 @@
 访问order.html  挂着html  会自动更新采集行情	修复几处漏洞
 Telegram:@iGod5
 
-下载地址：https://mega-file.org/
+下载地址：https://mega-file.org/jhHQ2
 Telegram:@iGod5
